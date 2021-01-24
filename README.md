@@ -14,14 +14,18 @@ Welcome to my github profile! I am a developer with an eclectic profile, despite
   CONTACT
 -->
 ## CONTACT
-<p align = "center">
-  <a href="https://www.linkedin.com/in/gabrielle-arruda/"><img align="left" alt="LinkedIn" height="40px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
- <a href="mailto:gabriellearrudac@gmail.com?subject=Hello"><img align="left" href="" alt="Gmail" height="40px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
- <a href="https://api.whatsapp.com/send?phone=5511940211447&text=Hello!"><img align="left" href="" alt="WhatsApp" height="40px" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
- <a href="https://www.instagram.com/_gabiarruda/"><img align="left" href="" alt="Instagram" height="40px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
-<br>
-<br>
+
+<table style="border-color: transparent;">
+ <tbody style="border-color: transparent;">
+  <tr style="border-color: transparent;">
+   <td style="border-color: transparent;"><a href="https://www.linkedin.com/in/gabrielle-arruda/"><img align="left" alt="LinkedIn" height="40px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a></td>
+   <td style="border-color: transparent;"><a href="mailto:gabriellearrudac@gmail.com?subject=Hello"><img align="left" href="" alt="Gmail" height="40px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a></td>
+   <td style="border-color: transparent;"><a href="https://api.whatsapp.com/send?phone=5511940211447&text=Hello!"><img align="left" href="" alt="WhatsApp" height="40px" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a></td>
+   <td style="border-color: transparent;"><a href="https://www.instagram.com/_gabiarruda/"><img align="left" href="" alt="Instagram" height="40px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a></td>
+  </tr>
+ </tbody>
+</table>
+
 
 <!--
   WORK
