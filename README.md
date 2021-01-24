@@ -31,6 +31,7 @@ Welcome to my github profile! I am a developer with an eclectic profile, despite
 </div>
 <br />
 <br />
+<br />
 
 <!--
 <table style="border-color: transparent;">
@@ -114,11 +115,12 @@ SEE MY RESUME [HERE]().
 
 
 
-<!--
+
 <p align = "left">
   <img src = "https://github-readme-stats.vercel.app/api?username=gabriellearruda&show_icons=true&theme=dracula&line_height=27&v=5&hide_rank=true">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellearruda&theme=dracula">
 </p>
+<!--
   STATS
 -->
 
