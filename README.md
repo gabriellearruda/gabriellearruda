@@ -115,12 +115,12 @@ SEE MY RESUME [HERE]().
 
 
 
-
+<!--
 <p align = "left">
   <img src = "https://github-readme-stats.vercel.app/api?username=gabriellearruda&show_icons=true&theme=dracula&line_height=27&v=5&hide_rank=true">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellearruda&theme=dracula">
 </p>
-<!--
+
   STATS
 -->
 
@@ -129,7 +129,20 @@ SEE MY RESUME [HERE]().
 -->
 ## PROJECTS
 
+<b>[Corona Datasource](http://datasource.coronacidades.org/help)</b>
+<br>
+[here](https://github.com/ImpulsoGov/coronacidades-datasource).
+<br>
+At [@ImpulsoGov](https://github.com/ImpulsoGov).
+<br>
+<br>
 
+<b>[Escola Segura](https://escolasegura.coronacidades.org/)</b>
+<br>
+[here](https://github.com/ImpulsoGov/escolasegura).
+<br>
+At [@ImpulsoGov](https://github.com/ImpulsoGov).
+<br>
 
 
 <!--
