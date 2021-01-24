@@ -153,19 +153,19 @@ I love:
 <table style="border-color: transparent;">
  <tbody style="border-color: transparent;">
   <tr style="border-color: transparent;">
-   <td style="border-color: transparent;"><img align="left" alt="livros" width="190px" height="190px" src="me/books.jpg" />
+   <td style="border-color: transparent;"><img align="left" alt="livros" width="180px" height="180px" src="me/books.jpg" />
     <br>
     Books
     <br>Nothing like a good book.</td>
-   <td style="border-color: transparent;"><img align="left" href="" alt="danca" width="190px" height="190px" src="me/dance.jpg" />
+   <td style="border-color: transparent;"><img align="left" href="" alt="danca" width="180px" height="180px" src="me/dance.jpg" />
     <br>
     Dance
     <br>I'm not good, but I keep trying.</td>
-   <td style="border-color: transparent;"><img align="left" href="" alt="viagem" width="190px" height="190px" src="me/paris.jpg" />
+   <td style="border-color: transparent;"><img align="left" href="" alt="viagem" width="180px" height="180px" src="me/paris.jpg" />
     <br>
     Travel
     <br>And the cold in the belly.</td>
-   <td style="border-color: transparent;"><img align="left" href="" alt="comunidade" width="190px" height="190px" src="me/comunidade.jpg" />
+   <td style="border-color: transparent;"><img align="left" href="" alt="comunidade" width="180px" height="180px" src="me/comunidade.jpg" />
    <br>
     Help
     <br>Improve the world.</td>
