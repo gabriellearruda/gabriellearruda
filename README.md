@@ -6,15 +6,33 @@
 
 <img align="right" alt="GIF" height="250px" src="giphy.gif" />
 
-Bem Vindo ao meu perfil do github! Sou uma desenvolvedora com um perfil eclético, apesar de trabalhar com tecnologia sou apaixonada por estudos sociais e arte. Aqui utilizo para trabalhar e pessoalmente compilo arquivos e projetos especiais, espero que meu README te guie a entender meu perfil, habilidades e trabalhos, para entender melhor minha trajetória profissional te convido ao meu linkedin. Para dúvidas, sugestões ou até mesmo um papo, minhas informações seguem abaixo.
+Bem Vindo ao meu perfil do github! Sou uma desenvolvedora com um perfil eclético, apesar de trabalhar com tecnologia sou apaixonada por estudos sociais e arte. Aqui utilizo para trabalhar e pessoalmente compilo arquivos e projetos especiais, espero que meu README te guie a entender meu perfil, habilidades e trabalhos. Para dúvidas, sugestões ou até mesmo um papo, minhas informações seguem abaixo.
 
-Welcome to my github profile! I am a developer with an eclectic profile, despite working with technology I am passionate about social studies and art. Here I use to work and personally compile files and special projects, I hope that my README guides you to understand my profile, skills and jobs, to better understand my professional trajectory I invite you to my linkedin. For questions, suggestions or even a chat, my information follows below.
+Welcome to my github profile! I am a developer with an eclectic profile, despite working with technology I am passionate about social studies and art. Here I use to work and personally compile files and special projects, I hope that my README guides you to understand my profile, skills and jobs. For questions, suggestions or even a chat, my information follows below.
 
 <!--
   CONTACT
 -->
 ## CONTACT
 
+<div class="linha" style="display: flex; flex-flow: row wrap; margin-bottom:10px;">
+ <div class="col">
+  <a href="https://www.linkedin.com/in/gabrielle-arruda/"><img align="left" alt="LinkedIn" height="40px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ </div>
+ <div class="col">
+  <a href="mailto:gabriellearrudac@gmail.com?subject=Hello"><img align="left" href="" alt="Gmail" height="40px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+ </div>
+ <div class="col">
+  <a href="https://api.whatsapp.com/send?phone=5511940211447&text=Hello!"><img align="left" href="" alt="WhatsApp" height="40px" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+ </div>
+ <div class="col">
+  <a href="https://www.instagram.com/_gabiarruda/"><img align="left" href="" alt="Instagram" height="40px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+ </div>
+</div>
+<br />
+<br />
+
+<!--
 <table style="border-color: transparent;">
  <tbody style="border-color: transparent;">
   <tr style="border-color: transparent;">
@@ -26,7 +44,6 @@ Welcome to my github profile! I am a developer with an eclectic profile, despite
  </tbody>
 </table>
 
-<!--
 <p align = "center" >
   <a href="https://www.linkedin.com/in/gabrielle-arruda/"><img align="left" alt="LinkedIn" height="40px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  <a href="mailto:gabriellearrudac@gmail.com?subject=Hello"><img align="left" href="" alt="Gmail" height="40px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -42,10 +59,8 @@ Welcome to my github profile! I am a developer with an eclectic profile, despite
 -->
 
 ## WORK
-* 
-* 
-* 
-* 
+SEE MY RESUME [HERE]().
+
 <table>
  <tbody>
   <tr>
@@ -72,6 +87,7 @@ Welcome to my github profile! I am a developer with an eclectic profile, despite
      <img align="left" href="" alt="Docker" height="40px" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
      <img align="left" href="" alt="Jenkins" height="40px" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />
      <img align="left" href="" alt="Streamlit" height="40px" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
+     <img align="left" href="" alt="Salesforce" height="40px" src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" />
      <img align="left" href="" alt="Figma" height="40px" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
    </td>
   </tr>
@@ -99,13 +115,49 @@ Welcome to my github profile! I am a developer with an eclectic profile, despite
 
 
 <!--
-  STATS
-## 💻 Some stats
 <p align = "left">
   <img src = "https://github-readme-stats.vercel.app/api?username=gabriellearruda&show_icons=true&theme=dracula&line_height=27&v=5&hide_rank=true">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellearruda&theme=dracula">
 </p>
+  STATS
 -->
+
+<!--
+  PROJECTS
+-->
+## PROJECTS
+
+
+
+
+<!--
+  ME
+-->
+## ME
+I love:
+<table style="border-color: transparent;">
+ <tbody style="border-color: transparent;">
+  <tr style="border-color: transparent;">
+   <td style="border-color: transparent;"><img align="left" alt="livros" width="200px" height="200px" src="me/books.jpg" />
+    <br>
+    Books
+    <br>Nothing like a good book.</td>
+   <td style="border-color: transparent;"><img align="left" href="" alt="danca" width="200px" height="200px" src="me/dance.jpg" />
+    <br>
+    Dance
+    <br>I'm not good, but I keep trying.</td>
+   <td style="border-color: transparent;"><img align="left" href="" alt="viagem" width="200px" height="200px" src="me/paris.jpg" />
+    <br>
+    Travel
+    <br>And the cold in the belly.</td>
+   <td style="border-color: transparent;"><img align="left" href="" alt="comunidade" width="200px" height="200px" src="me/comunidade.jpg" />
+   <br>
+    Help
+    <br>Improve the world.</td>
+  </tr>
+ </tbody>
+</table>
+
 
 
 <!--
