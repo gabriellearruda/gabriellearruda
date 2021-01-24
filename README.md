@@ -60,6 +60,8 @@ Welcome to my github profile! I am a developer with an eclectic profile, despite
 -->
 
 ## WORK
+I started working in the CRM area in ecommerce, segmenting clients and designing campaigns within Salesforce, besides analyzing the results of campaigns, after that I developed an interface in django that grouped actions on different plataforms through API communication, unifying the information aiming to reduce the unnecessary repetition and the use of multiple channels to all sales team. After work more with sales analysis, I started to work with software and data engineering to data tools.
+
 SEE MY RESUME [HERE]().
 
 <table>
