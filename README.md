@@ -127,11 +127,11 @@ SEE MY RESUME [HERE]().
 <!--
   PROJECTS
 -->
-## PROJECTS
+## TEAM PROJECTS
 
 <b>[Corona Datasource](http://datasource.coronacidades.org/help)</b>
 <br>
-[here](https://github.com/ImpulsoGov/coronacidades-datasource).
+API of Coronacidades, which gathers data related to covid in Brazil, treating, cleaning and organizing information [DATA WRANGLING] to be used in tools like FarolCovid. In the team I implemented the parameterization of the API methods and maintenance, also implementing endpoint atualization codes, you can acess [here](https://github.com/ImpulsoGov/coronacidades-datasource) the code.
 <br>
 At [@ImpulsoGov](https://github.com/ImpulsoGov).
 <br>
@@ -139,7 +139,7 @@ At [@ImpulsoGov](https://github.com/ImpulsoGov).
 
 <b>[Escola Segura](https://escolasegura.coronacidades.org/)</b>
 <br>
-[here](https://github.com/ImpulsoGov/escolasegura).
+I did software engineering on the "Escola Segura" platform, a tool for members of state and municipal education departments of government, which offers guides and protocols to enable a planned reopening of the public school system, you can acess [here](https://github.com/ImpulsoGov/escolasegura) the code.
 <br>
 At [@ImpulsoGov](https://github.com/ImpulsoGov).
 <br>
