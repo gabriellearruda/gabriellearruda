@@ -113,6 +113,11 @@ SEE MY RESUME [HERE]().
      <img align="left" href="" alt="Docker" height="40px" src="https://img.shields.io/badge/TAGMANAGER-03001c?style=for-the-badge&logo=google-tag-manager&logoColor=white" />
    </td>
   </tr>
+  
+  <tr>
+    <td align="center"><img src = "https://chart.googleapis.com/chart?cht=r&chxt=y,x&chls=4&chco=FFFFFF&chs=300x300&chts=FFFFFF,20&chxr=0,0.0,100.0&chd=t:60,10,70,70,90,75,80,25,95,40,60&chxp=0,25,50,75,100&chtt=Data+Skills+by+Experience&chxs=0,FFFFFF,12|1,FFFFFF,12&chxl=1:|Software+Eng|ML|Data+Eng|Business|Database|Data+Wrang|Data+Vis|Statistics|Programming|Big+Data&chm=s,FFFFFF,0,-1,12,0|s,FFFFFF,0,-1,1,0&chf=bg,s,03001c"></td>
+    <td align="center"><b></b></td>
+  </tr>
  </tbody>
 </table>
 
@@ -127,10 +132,6 @@ SEE MY RESUME [HERE]().
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellearruda&icon_color=000000&bg_color=98d0ca&title_color=000000&text_color=000000">
 </p>
 
-<p align = "left">
-  <img src = "https://chart.googleapis.com/chart?cht=r&chxt=y,x&chls=4&chco=03001c&chs=300x300&chts=000000,20&chxr=0,0.0,100.0&chd=t:60,10,70,70,90,75,80,25,95,40,60&chxp=0,25,50,75,100&chtt=Skills+by+Experience&chxs=0,000000,12|1,000000,12&chxl=1:|Software+Eng|ML|Data+Eng|Business|Database|Data+Wrang|Data+Vis|Statistics|Programming|Big+Data&chm=s,000000,0,-1,12,0|s,000000,0,-1,1,0&chf=bg,s,98d0ca">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellearruda&icon_color=000000&bg_color=98d0ca&title_color=000000&text_color=000000">
-</p>
 
 <!--
   PROJECTS
