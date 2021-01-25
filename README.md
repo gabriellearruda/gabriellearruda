@@ -116,8 +116,12 @@ SEE MY RESUME [HERE](https://gabriellearruda.github.io/pages/resume.html) OR REA
   </tr>
   
   <tr>
-    <td align="center"><img src = "https://chart.googleapis.com/chart?cht=r&chxt=y,x&chls=4&chco=FFFFFF&chs=300x300&chts=FFFFFF,20&chxr=0,0.0,100.0&chd=t:60,10,70,70,90,75,80,25,95,40,60&chxp=0,25,50,75,100&chtt=Data+Skills+by+Experience&chxs=0,FFFFFF,12|1,FFFFFF,12&chxl=1:|Software+Eng|ML|Data+Eng|Business|Database|Data+Wrang|Data+Vis|Statistics|Programming|Big+Data&chm=s,FFFFFF,0,-1,12,0|s,FFFFFF,0,-1,1,0&chf=bg,s,03001c"></td>
-    <td align="center"><img src = "https://github-readme-stats.vercel.app/api?username=gabriellearruda&show_icons=true&line_height=27&v=5&hide_rank=false&icon_color=FFFFFF&bg_color=03001c&title_color=FFFFFF&text_color=FFFFFF"></td>
+    <td align="center"><b>DATA SKILL BY EXPERIENCE</b></td>
+    <td align="center"><b>GITHUB STATS</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src = "https://chart.googleapis.com/chart?cht=r&chxt=y,x&chls=4&chco=FFFFFF&chs=300x300&chts=FFFFFF,20&chxr=0,0.0,100.0&chd=t:60,10,70,70,90,75,80,25,95,40,60&chxp=0,25,50,75,100&chxs=0,FFFFFF,12|1,FFFFFF,12&chxl=1:|Software+Eng|ML|Data+Eng|Business|Database|Data+Wrang|Data+Vis|Statistics|Programming|Big+Data&chm=s,FFFFFF,0,-1,12,0|s,FFFFFF,0,-1,1,0&chf=bg,s,03001c"></td>
+    <td align="center"><img src = "https://github-readme-stats.vercel.app/api?username=gabriellearruda&show_icons=true&line_height=27&v=5&hide_rank=true&icon_color=FFFFFF&bg_color=03001c&title_color=FFFFFF&text_color=FFFFFF"></td>
   </tr>
  </tbody>
 </table>
@@ -146,13 +150,19 @@ At [@ImpulsoGov](https://github.com/ImpulsoGov).
 
 <!--
   Favorite technical readings
--->
-## FAVORITE TECHNICAL READING
-- 
-- 
-- 
-- 
 
+## FAVORITE TECHNICAL READING
+<b>[Corona Datasource](http://datasource.coronacidades.org/help)</b>
+<br>
+API of Coronacidades, which gathers data related to covid in Brazil, treating, cleaning and organizing information [DATA WRANGLING] to be used in tools like FarolCovid. In the team I implemented the parameterization of the API methods and maintenance, also implementing endpoint atualization codes, you can acess [here](https://github.com/ImpulsoGov/coronacidades-datasource) the code.
+<br>
+<br>
+
+<b>[Escola Segura](https://escolasegura.coronacidades.org/)</b>
+<br>
+I did software engineering on the "Escola Segura" platform, a tool for members of state and municipal education departments of government, which offers guides and protocols to enable a planned reopening of the public school system, you can acess [here](https://github.com/ImpulsoGov/escolasegura) the code.
+<br>
+-->
 
 <!--
   ME
