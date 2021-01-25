@@ -167,7 +167,7 @@ I love:
    <td style="border-color: transparent;"><img align="left" href="" alt="viagem" width="180px" height="180px" src="me/paris.jpg" />
     <br>
     Travel
-    <br>And the cold in the belly.</td>
+    <br>Especially to the beach.</td>
    <td style="border-color: transparent;"><img align="left" href="" alt="comunidade" width="180px" height="180px" src="me/comunidade.jpg" />
    <br>
     Help
