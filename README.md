@@ -123,13 +123,8 @@ SEE MY RESUME [HERE]().
   STATS
 -->
 <p align = "left">
-  <img src = "https://github-readme-stats.vercel.app/api?username=gabriellearruda&show_icons=true&line_height=27&v=5&hide_rank=false&icon_color=98d0ca&bg_color=03001c&title_color=98d0ca&text_color=ffffff">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellearruda&icon_color=98d0ca&bg_color=03001c&title_color=98d0ca&text_color=ffffff">
-</p>
-
-<p align = "left">
   <img src = "https://github-readme-stats.vercel.app/api?username=gabriellearruda&show_icons=true&line_height=27&v=5&hide_rank=false&icon_color=000000&bg_color=98d0ca&title_color=000000&text_color=000000">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellearruda&theme=dracula">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellearruda&icon_color=000000&bg_color=98d0ca&title_color=000000&text_color=000000">
 </p>
 
 
