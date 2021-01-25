@@ -78,21 +78,21 @@ SEE MY RESUME [HERE]().
   
   <tr>
    <td>
-    <img align="left" alt="Python" height="40px" src="https://img.shields.io/badge/Python-98d0ca?style=for-the-badge&logo=python&logoColor=black"/>
-   <img align="left" alt="HTML" height="40px" src="https://img.shields.io/badge/HTML-98d0ca?style=for-the-badge&logo=html5&logoColor=black"/>
-   <img align="left" alt="CSS" height="40px" src="https://img.shields.io/badge/CSS-98d0ca?&style=for-the-badge&logo=css3&logoColor=black"/>
-   <img align="left" alt="javascript" height="40px" src="https://img.shields.io/badge/JavaScript-98d0ca?style=for-the-badge&logo=javascript&logoColor=black"/>
-   <img align="left" alt="C" height="40px" src="https://img.shields.io/badge/C-98d0ca?style=for-the-badge&logo=c&logoColor=black"/>
-   <img align="left" alt="Django" height="40px" src="https://img.shields.io/badge/Django-98d0ca?style=for-the-badge&logo=Django&logoColor=black"/>
+    <img align="left" alt="Python" height="40px" src="https://img.shields.io/badge/Python-03001c?style=for-the-badge&logo=python&logoColor=white"/>
+   <img align="left" alt="HTML" height="40px" src="https://img.shields.io/badge/HTML-03001c?style=for-the-badge&logo=html5&logoColor=white"/>
+   <img align="left" alt="CSS" height="40px" src="https://img.shields.io/badge/CSS-03001c?&style=for-the-badge&logo=css3&logoColor=white"/>
+   <img align="left" alt="javascript" height="40px" src="https://img.shields.io/badge/JavaScript-03001c?style=for-the-badge&logo=javascript&logoColor=white"/>
+   <img align="left" alt="C" height="40px" src="https://img.shields.io/badge/C-03001c?style=for-the-badge&logo=c&logoColor=white"/>
+   <img align="left" alt="Django" height="40px" src="https://img.shields.io/badge/Django-03001c?style=for-the-badge&logo=Django&logoColor=white"/>
    </td>
    
    <td>
-    <img align="left" href="" alt="heroku" height="40px" src="https://img.shields.io/badge/Heroku-98d0ca?style=for-the-badge&logo=heroku&logoColor=black" />
-     <img align="left" href="" alt="Docker" height="40px" src="https://img.shields.io/badge/Docker-98d0ca?style=for-the-badge&logo=docker&logoColor=black" />
-     <img align="left" href="" alt="Jenkins" height="40px" src="https://img.shields.io/badge/Jenkins-98d0ca?style=for-the-badge&logo=Jenkins&logoColor=black" />
-     <img align="left" href="" alt="Streamlit" height="40px" src="https://img.shields.io/badge/Streamlit-98d0ca?style=for-the-badge&logo=Streamlit&logoColor=black" />
-     <img align="left" href="" alt="Salesforce" height="40px" src="https://img.shields.io/badge/Salesforce-98d0ca?style=for-the-badge&logo=Salesforce&logoColor=black" />
-     <img align="left" href="" alt="Figma" height="40px" src="https://img.shields.io/badge/Figma-98d0ca?style=for-the-badge&logo=figma&logoColor=black" />
+    <img align="left" href="" alt="heroku" height="40px" src="https://img.shields.io/badge/Heroku-03001c?style=for-the-badge&logo=heroku&logoColor=white" />
+     <img align="left" href="" alt="Docker" height="40px" src="https://img.shields.io/badge/Docker-03001c?style=for-the-badge&logo=docker&logoColor=white" />
+     <img align="left" href="" alt="Jenkins" height="40px" src="https://img.shields.io/badge/Jenkins-03001c?style=for-the-badge&logo=Jenkins&logoColor=white" />
+     <img align="left" href="" alt="Streamlit" height="40px" src="https://img.shields.io/badge/Streamlit-03001c?style=for-the-badge&logo=Streamlit&logoColor=white" />
+     <img align="left" href="" alt="Salesforce" height="40px" src="https://img.shields.io/badge/Salesforce-03001c?style=for-the-badge&logo=Salesforce&logoColor=white" />
+     <img align="left" href="" alt="Figma" height="40px" src="https://img.shields.io/badge/Figma-03001c?style=for-the-badge&logo=figma&logoColor=white" />
    </td>
   </tr>
   
@@ -102,10 +102,10 @@ SEE MY RESUME [HERE]().
   </tr>
   
   <tr>
-    <td>    <img align="left" href="" alt="R" height="40px" src="https://img.shields.io/badge/R-03001c?style=for-the-badge&r&logo=R&Color=black" />
-     <img align="left" href="" alt="SQL" height="40px" src="https://img.shields.io/badge/SQL-03001c?style=for-the-badge&logo=sql&logoColor=black" />
-     <img align="left" href="" alt="PostgresSQL" height="40px" src="https://img.shields.io/badge/PostgreSQL-03001c?style=for-the-badge&logo=PostgreSQL&logoColor=black" />
-     <img align="left" href="" alt="Tableau" height="40px" src="https://img.shields.io/badge/Tableau-03001c?style=for-the-badge&logo=Tableau&logoColor=black" />
+    <td>    <img align="left" href="" alt="R" height="40px" src="https://img.shields.io/badge/R-03001c?style=for-the-badge&r&logo=R&Color=white" />
+     <img align="left" href="" alt="SQL" height="40px" src="https://img.shields.io/badge/SQL-03001c?style=for-the-badge&logo=sql&logoColor=white" />
+     <img align="left" href="" alt="PostgresSQL" height="40px" src="https://img.shields.io/badge/PostgreSQL-03001c?style=for-the-badge&logo=PostgreSQL&logoColor=white" />
+     <img align="left" href="" alt="Tableau" height="40px" src="https://img.shields.io/badge/Tableau-03001c?style=for-the-badge&logo=Tableau&logoColor=white" />
     </td>
     <td>
     <img align="left" href="" alt="Analytics" height="40px" src="https://img.shields.io/badge/Analytics-03001c?style=for-the-badge&logo=google-analytics&logoColor=white" />
@@ -119,9 +119,12 @@ SEE MY RESUME [HERE]().
 
 
 
+<!--
+  STATS
+-->
 <p align = "left">
   <img src = "https://github-readme-stats.vercel.app/api?username=gabriellearruda&show_icons=true&line_height=27&v=5&hide_rank=false&icon_color=98d0ca&bg_color=03001c&title_color=98d0ca&text_color=ffffff">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellearruda&theme=dracula">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellearruda&icon_color=98d0ca&bg_color=03001c&title_color=98d0ca&text_color=ffffff">
 </p>
 
 <p align = "left">
@@ -129,9 +132,6 @@ SEE MY RESUME [HERE]().
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellearruda&theme=dracula">
 </p>
 
-<!--
-  STATS
--->
 
 <!--
   PROJECTS
