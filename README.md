@@ -122,11 +122,15 @@ SEE MY RESUME [HERE]().
 <!--
   STATS
 -->
-<p align = "left">
+<p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=gabriellearruda&show_icons=true&line_height=27&v=5&hide_rank=false&icon_color=000000&bg_color=98d0ca&title_color=000000&text_color=000000">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellearruda&icon_color=000000&bg_color=98d0ca&title_color=000000&text_color=000000">
 </p>
 
+<p align = "left">
+  <img src = "https://chart.googleapis.com/chart?cht=r&chxt=y,x&chls=4&chco=03001c&chs=300x300&chts=000000,20&chxr=0,0.0,100.0&chd=t:60,10,70,70,90,75,80,25,95,40,60&chxp=0,25,50,75,100&chtt=Skills+by+Experience&chxs=0,000000,12|1,000000,12&chxl=1:|Software+Eng|ML|Data+Eng|Business|Database|Data+Wrang|Data+Vis|Statistics|Programming|Big+Data&chm=s,000000,0,-1,12,0|s,000000,0,-1,1,0&chf=bg,s,98d0ca">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellearruda&icon_color=000000&bg_color=98d0ca&title_color=000000&text_color=000000">
+</p>
 
 <!--
   PROJECTS
