@@ -102,15 +102,15 @@ SEE MY RESUME [HERE]().
   </tr>
   
   <tr>
-    <td>    <img align="left" href="" alt="R" height="40px" src="https://img.shields.io/badge/R-98d0ca?style=for-the-badge&r&logo=R&Color=black" />
-     <img align="left" href="" alt="SQL" height="40px" src="https://img.shields.io/badge/SQL-98d0ca?style=for-the-badge&logo=sql&logoColor=black" />
-     <img align="left" href="" alt="PostgresSQL" height="40px" src="https://img.shields.io/badge/PostgreSQL-98d0ca?style=for-the-badge&logo=PostgreSQL&logoColor=black" />
-     <img align="left" href="" alt="Tableau" height="40px" src="https://img.shields.io/badge/Tableau-98d0ca?style=for-the-badge&logo=Tableau&logoColor=black" />
+    <td>    <img align="left" href="" alt="R" height="40px" src="https://img.shields.io/badge/R-03001c?style=for-the-badge&r&logo=R&Color=black" />
+     <img align="left" href="" alt="SQL" height="40px" src="https://img.shields.io/badge/SQL-03001c?style=for-the-badge&logo=sql&logoColor=black" />
+     <img align="left" href="" alt="PostgresSQL" height="40px" src="https://img.shields.io/badge/PostgreSQL-03001c?style=for-the-badge&logo=PostgreSQL&logoColor=black" />
+     <img align="left" href="" alt="Tableau" height="40px" src="https://img.shields.io/badge/Tableau-03001c?style=for-the-badge&logo=Tableau&logoColor=black" />
     </td>
     <td>
-    <img align="left" href="" alt="Analytics" height="40px" src="https://img.shields.io/badge/Analytics-98d0ca?style=for-the-badge&logo=google-analytics&logoColor=black" />
-     <img align="left" href="" alt="HOTJAR" height="40px" src="https://img.shields.io/badge/Hotjar-98d0ca?style=for-the-badge&logo=hotjar&logoColor=black" />
-     <img align="left" href="" alt="Docker" height="40px" src="https://img.shields.io/badge/TAGMANAGER-98d0ca?style=for-the-badge&logo=google-tag-manager&logoColor=black" />
+    <img align="left" href="" alt="Analytics" height="40px" src="https://img.shields.io/badge/Analytics-03001c?style=for-the-badge&logo=google-analytics&logoColor=white" />
+     <img align="left" href="" alt="HOTJAR" height="40px" src="https://img.shields.io/badge/Hotjar-03001c?style=for-the-badge&logo=hotjar&logoColor=white" />
+     <img align="left" href="" alt="Docker" height="40px" src="https://img.shields.io/badge/TAGMANAGER-03001c?style=for-the-badge&logo=google-tag-manager&logoColor=white" />
    </td>
   </tr>
  </tbody>
@@ -118,12 +118,18 @@ SEE MY RESUME [HERE]().
 
 
 
-<!--
+
 <p align = "left">
-  <img src = "https://github-readme-stats.vercel.app/api?username=gabriellearruda&show_icons=true&theme=dracula&line_height=27&v=5&hide_rank=true">
+  <img src = "https://github-readme-stats.vercel.app/api?username=gabriellearruda&show_icons=true&line_height=27&v=5&hide_rank=false&icon_color=98d0ca&bg_color=03001c&title_color=98d0ca&text_color=ffffff">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellearruda&theme=dracula">
 </p>
 
+<p align = "left">
+  <img src = "https://github-readme-stats.vercel.app/api?username=gabriellearruda&show_icons=true&line_height=27&v=5&hide_rank=false&icon_color=000000&bg_color=98d0ca&title_color=000000&text_color=000000">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellearruda&theme=dracula">
+</p>
+
+<!--
   STATS
 -->
 
