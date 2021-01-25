@@ -129,7 +129,7 @@ SEE MY RESUME [HERE]().
 
 <p align = "left">
   <img src = "https://chart.googleapis.com/chart?cht=r&chxt=y,x&chls=4&chco=03001c&chs=300x300&chts=000000,20&chxr=0,0.0,100.0&chd=t:60,10,70,70,90,75,80,25,95,40,60&chxp=0,25,50,75,100&chtt=Skills+by+Experience&chxs=0,000000,12|1,000000,12&chxl=1:|Software+Eng|ML|Data+Eng|Business|Database|Data+Wrang|Data+Vis|Statistics|Programming|Big+Data&chm=s,000000,0,-1,12,0|s,000000,0,-1,1,0&chf=bg,s,98d0ca">
-  <img src = "https://chart.googleapis.com/chart?chco=000000,000000&chd=s:fmtz479962xqjbUNHDBABEJPWdlsz479973yrkcVOIEBABEIOVckry379973ysldWPJEBABDINUbjqx269974ztmeXQKFBABDHMTaipw2689850unfYRKFCAACGMSZhpv1589851vogZRLGCAACGLRYgou0589861vphaSMGDAACFKQXfnu0489862wqibTNHDBABFJPWe,MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM&chf=bg,s,98d0ca&chm=B,000000,0,0,0|o,000000,1,0,20,0|o,000000,1,20,20,0|o,000000,1,40,20,0|o,000000,1,60,20,0|o,000000,1,80,20,0|o,000000,1,100,20,0|o,000000,1,120,20,0|o,000000,1,140,20,0|o,000000,1,160,20,0|o,000000,1,180,20,0|B,98d0ca,1,0,0&chs=300x300&cht=rs&chts=000000,16&chtt=Data+Is+Beautiful">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellearruda&icon_color=000000&bg_color=98d0ca&title_color=000000&text_color=000000">
 </p>
 
 <!--
