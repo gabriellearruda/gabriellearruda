@@ -1,5 +1,5 @@
  
- # NICE TO MEET YOU!
+ # HI STRANGER!
 <!--
   INTRO PROFILE
 -->
@@ -60,9 +60,10 @@ Welcome to my github profile! I am a developer with an eclectic profile, despite
 -->
 
 ## WORK
-I started working in the CRM area in ecommerce, segmenting clients and designing campaigns within Salesforce, besides analyzing the results of campaigns, after that I developed an interface in django that grouped actions on different plataforms through API communication, unifying the information aiming to reduce the unnecessary repetition and the use of multiple channels to all sales team. After work more with sales analysis, I started to work with software and data engineering to data tools.
 
-SEE MY RESUME [HERE](https://gabriellearruda.github.io/pages/resume.html).
+<!--I started working in the CRM area in ecommerce, segmenting clients and designing campaigns within Salesforce, besides analyzing the results of campaigns, after that I developed an interface in django that grouped actions on different plataforms through API communication, unifying the information aiming to reduce the unnecessary repetition and the use of multiple channels to all sales team. After work more with sales analysis, I started to work with software and data engineering to data tools.-->
+
+SEE MY RESUME [HERE](https://gabriellearruda.github.io/pages/resume.html) OR READ MY PINNED FILES.
 
 <table>
  <tbody>
@@ -116,21 +117,11 @@ SEE MY RESUME [HERE](https://gabriellearruda.github.io/pages/resume.html).
   
   <tr>
     <td align="center"><img src = "https://chart.googleapis.com/chart?cht=r&chxt=y,x&chls=4&chco=FFFFFF&chs=300x300&chts=FFFFFF,20&chxr=0,0.0,100.0&chd=t:60,10,70,70,90,75,80,25,95,40,60&chxp=0,25,50,75,100&chtt=Data+Skills+by+Experience&chxs=0,FFFFFF,12|1,FFFFFF,12&chxl=1:|Software+Eng|ML|Data+Eng|Business|Database|Data+Wrang|Data+Vis|Statistics|Programming|Big+Data&chm=s,FFFFFF,0,-1,12,0|s,FFFFFF,0,-1,1,0&chf=bg,s,03001c"></td>
-    <td align="center"><b></b></td>
+    <td align="center"><img src = "https://github-readme-stats.vercel.app/api?username=gabriellearruda&show_icons=true&line_height=27&v=5&hide_rank=false&icon_color=FFFFFF&bg_color=03001c&title_color=FFFFFF&text_color=FFFFFF"></td>
   </tr>
  </tbody>
 </table>
 
-
-
-
-<!--
-  STATS
--->
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=gabriellearruda&show_icons=true&line_height=27&v=5&hide_rank=false&icon_color=000000&bg_color=98d0ca&title_color=000000&text_color=000000">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellearruda&icon_color=000000&bg_color=98d0ca&title_color=000000&text_color=000000">
-</p>
 
 
 <!--
@@ -152,6 +143,15 @@ I did software engineering on the "Escola Segura" platform, a tool for members o
 <br>
 At [@ImpulsoGov](https://github.com/ImpulsoGov).
 <br>
+
+<!--
+  Favorite technical readings
+-->
+## FAVORITE TECHNICAL READING
+- 
+- 
+- 
+- 
 
 
 <!--
