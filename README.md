@@ -17,10 +17,10 @@ Welcome to my github profile! I am a developer with an eclectic profile, despite
 
 <div class="linha" style="display: flex; flex-flow: row wrap; margin-bottom:10px;">
  <div class="col">
-  <a href="https://www.linkedin.com/in/gabrielle-arruda/"><img align="left" alt="LinkedIn" height="40px" src="https://img.shields.io/badge/LinkedIn-ecdbfe?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
+  <a href="https://www.linkedin.com/in/gabrielle-arruda/"><img align="left" alt="LinkedIn" height="40px" src="https://img.shields.io/badge/LinkedIn-e3d7fe?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
  </div>
  <div class="col">
-  <a href="mailto:gabriellearrudac@gmail.com?subject=Hello"><img align="left" href="" alt="Gmail" height="40px" src="https://img.shields.io/badge/Gmail-ecdbfe?style=for-the-badge&logo=gmail&logoColor=black" /></a>
+  <a href="mailto:gabriellearrudac@gmail.com?subject=Hello"><img align="left" href="" alt="Gmail" height="40px" src="https://img.shields.io/badge/Gmail-e3d7fe?style=for-the-badge&logo=gmail&logoColor=black" /></a>
  </div>
  <div class="col">
   <a href="https://api.whatsapp.com/send?phone=5511940211447&text=Hello!"><img align="left" href="" alt="WhatsApp" height="40px" src="https://img.shields.io/badge/WhatsApp-e3d7fe?style=for-the-badge&logo=whatsapp&logoColor=black" /></a>
@@ -114,8 +114,12 @@ SEE MY RESUME [HERE](https://gabriellearruda.github.io/pages/resume.html) OR REA
      <img align="left" href="" alt="Docker" height="40px" src="https://img.shields.io/badge/TAGMANAGER-03001c?style=for-the-badge&logo=google-tag-manager&logoColor=white" />
    </td>
   </tr>
-  
-  <tr>
+ </tbody>
+</table>
+
+
+<!--
+<tr>
     <td align="center"><b>DATA SKILL BY EXPERIENCE</b></td>
     <td align="center"><b>GITHUB STATS</b></td>
   </tr>
@@ -123,9 +127,7 @@ SEE MY RESUME [HERE](https://gabriellearruda.github.io/pages/resume.html) OR REA
     <td align="center"><img src = "https://chart.googleapis.com/chart?cht=r&chxt=y,x&chls=4&chco=FFFFFF&chs=300x300&chts=FFFFFF,20&chxr=0,0.0,100.0&chd=t:60,10,70,70,90,75,80,25,95,40,60&chxp=0,25,50,75,100&chxs=0,FFFFFF,12|1,FFFFFF,12&chxl=1:|Software+Eng|ML|Data+Eng|Business|Database|Data+Wrang|Data+Vis|Statistics|Programming|Big+Data&chm=s,FFFFFF,0,-1,12,0|s,FFFFFF,0,-1,1,0&chf=bg,s,03001c"></td>
     <td align="center"><img src = "https://github-readme-stats.vercel.app/api?username=gabriellearruda&show_icons=true&line_height=27&v=5&hide_rank=true&icon_color=FFFFFF&bg_color=03001c&title_color=FFFFFF&text_color=FFFFFF"></td>
   </tr>
- </tbody>
-</table>
-
+-->
 
 
 <!--
