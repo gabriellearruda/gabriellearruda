@@ -17,10 +17,10 @@ Welcome to my github profile! I am a developer with an eclectic profile, despite
 
 <div class="linha" style="display: flex; flex-flow: row wrap; margin-bottom:10px;">
  <div class="col">
-  <a href="https://www.linkedin.com/in/gabrielle-arruda/"><img align="left" alt="LinkedIn" height="40px" src="https://img.shields.io/badge/LinkedIn-e3d7fe?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
+  <a href="https://www.linkedin.com/in/gabrielle-arruda/"><img align="left" alt="LinkedIn" height="40px" src="https://img.shields.io/badge/LinkedIn-ecdbfe?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
  </div>
  <div class="col">
-  <a href="mailto:gabriellearrudac@gmail.com?subject=Hello"><img align="left" href="" alt="Gmail" height="40px" src="https://img.shields.io/badge/Gmail-e3d7fe?style=for-the-badge&logo=gmail&logoColor=black" /></a>
+  <a href="mailto:gabriellearrudac@gmail.com?subject=Hello"><img align="left" href="" alt="Gmail" height="40px" src="https://img.shields.io/badge/Gmail-ecdbfe?style=for-the-badge&logo=gmail&logoColor=black" /></a>
  </div>
  <div class="col">
   <a href="https://api.whatsapp.com/send?phone=5511940211447&text=Hello!"><img align="left" href="" alt="WhatsApp" height="40px" src="https://img.shields.io/badge/WhatsApp-e3d7fe?style=for-the-badge&logo=whatsapp&logoColor=black" /></a>
