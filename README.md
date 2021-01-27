@@ -63,8 +63,8 @@ Welcome to my github profile! I am a developer with an eclectic profile, despite
 
 <!--I started working in the CRM area in ecommerce, segmenting clients and designing campaigns within Salesforce, besides analyzing the results of campaigns, after that I developed an interface in django that grouped actions on different plataforms through API communication, unifying the information aiming to reduce the unnecessary repetition and the use of multiple channels to all sales team. After work more with sales analysis, I started to work with software and data engineering to data tools.-->
 
-SEE MY RESUME [HERE](https://gabriellearruda.github.io/pages/resume.html) OR READ MY PINNED FILES.
-
+SEE MY RESUME ON MY PINNED FILES OR READ [HERE](https://gabriellearruda.github.io/pages/resume.html).
+<!--
 <table>
  <tbody>
   <tr>
@@ -75,8 +75,6 @@ SEE MY RESUME [HERE](https://gabriellearruda.github.io/pages/resume.html) OR REA
     <td align="center"><b>PROGRAMMING</b></td>
     <td align="center"><b>TECHNOLOGIES</b></td>
   </tr>
-  
-  
   <tr>
    <td>
     <img align="left" alt="Python" height="40px" src="https://img.shields.io/badge/Python-03001c?style=for-the-badge&logo=python&logoColor=white"/>
@@ -116,20 +114,8 @@ SEE MY RESUME [HERE](https://gabriellearruda.github.io/pages/resume.html) OR REA
   </tr>
  </tbody>
 </table>
-
-
-<!--
-<tr>
-    <td align="center"><b>DATA SKILL BY EXPERIENCE</b></td>
-    <td align="center"><b>GITHUB STATS</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src = "https://chart.googleapis.com/chart?cht=r&chxt=y,x&chls=4&chco=FFFFFF&chs=300x300&chts=FFFFFF,20&chxr=0,0.0,100.0&chd=t:60,10,70,70,90,75,80,25,95,40,60&chxp=0,25,50,75,100&chxs=0,FFFFFF,12|1,FFFFFF,12&chxl=1:|Software+Eng|ML|Data+Eng|Business|Database|Data+Wrang|Data+Vis|Statistics|Programming|Big+Data&chm=s,FFFFFF,0,-1,12,0|s,FFFFFF,0,-1,1,0&chf=bg,s,03001c"></td>
-    <td align="center"><img src = "https://github-readme-stats.vercel.app/api?username=gabriellearruda&show_icons=true&line_height=27&v=5&hide_rank=true&icon_color=FFFFFF&bg_color=03001c&title_color=FFFFFF&text_color=FFFFFF"></td>
-  </tr>
 -->
 
-<!--
 <table>
  <tbody>
   <tr>
@@ -175,7 +161,24 @@ SEE MY RESUME [HERE](https://gabriellearruda.github.io/pages/resume.html) OR REA
   </tr>
  </tbody>
 </table>
--->
+
+
+
+<details>
+ <summary>See My Git/Work Statistics</summary>
+ <table>
+  <tbody>
+   <tr>
+    <td align="center"><b>DATA SKILL BY EXPERIENCE</b></td>
+    <td align="center"><b>GITHUB STATS</b></td>
+   </tr>
+   <tr>
+     <td align="center"><img src = "https://chart.googleapis.com/chart?cht=r&chxt=y,x&chls=4&chco=FFFFFF&chs=300x300&chts=FFFFFF,20&chxr=0,0.0,100.0&chd=t:60,10,70,70,90,75,80,25,95,40,60&chxp=0,25,50,75,100&chxs=0,FFFFFF,12|1,FFFFFF,12&chxl=1:|Software+Eng|ML|Data+Eng|Business|Database|Data+Wrang|Data+Vis|Statistics|Programming|Big+Data&chm=s,FFFFFF,0,-1,12,0|s,FFFFFF,0,-1,1,0&chf=bg,s,03001c"></td>
+     <td align="center"><img src = "https://github-readme-stats.vercel.app/api?username=gabriellearruda&show_icons=true&line_height=27&v=5&hide_rank=true&icon_color=FFFFFF&bg_color=03001c&title_color=FFFFFF&text_color=FFFFFF"></td>
+   </tr>
+  </tbody>
+ </table>
+</details>
 
 <!--
   PROJECTS
