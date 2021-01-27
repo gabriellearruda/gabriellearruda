@@ -129,6 +129,53 @@ SEE MY RESUME [HERE](https://gabriellearruda.github.io/pages/resume.html) OR REA
   </tr>
 -->
 
+<!--
+<table>
+ <tbody>
+  <tr>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>PROGRAMMING</b></td>
+    <td align="center"><b>TECHNOLOGIES</b></td>
+  </tr>
+  <tr>
+   <td>
+    <img align="left" alt="Python" height="40px" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+   <img align="left" alt="HTML" height="40px" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+   <img align="left" alt="CSS" height="40px" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+   <img align="left" alt="javascript" height="40px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+   <img align="left" alt="C" height="40px" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+   </td> 
+   <td>
+    <img align="left" href="" alt="heroku" height="40px" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+     <img align="left" href="" alt="Docker" height="40px" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+     <img align="left" href="" alt="Jenkins" height="40px" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />
+     <img align="left" href="" alt="Streamlit" height="40px" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
+     <img align="left" href="" alt="Salesforce" height="40px" src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" />
+     <img align="left" href="" alt="Figma" height="40px" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+   </td>
+  </tr>
+  <tr>
+    <td align="center"><b>DATA</b></td>
+    <td align="center"><b>SITES AND APPS ANALYSIS</b></td>
+  </tr>
+  <tr>
+    <td>    <img align="left" href="" alt="R" height="40px" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&r&logo=R&Color=white" />
+     <img align="left" href="" alt="SQL" height="40px" src="https://img.shields.io/badge/SQL-FD3A5C?style=for-the-badge&logo=sql&logoColor=white" />
+     <img align="left" href="" alt="PostgresSQL" height="40px" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white" />
+     <img align="left" href="" alt="Tableau" height="40px" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+    </td>
+    <td>
+    <img align="left" href="" alt="Analytics" height="40px" src="https://img.shields.io/badge/Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white" />
+     <img align="left" href="" alt="HOTJAR" height="40px" src="https://img.shields.io/badge/Hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white" />
+     <img align="left" href="" alt="Docker" height="40px" src="https://img.shields.io/badge/TAGMANAGER-2496ED?style=for-the-badge&logo=google-tag-manager&logoColor=white" />
+   </td>
+  </tr>
+ </tbody>
+</table>
+-->
 
 <!--
   PROJECTS
