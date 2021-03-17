@@ -220,6 +220,10 @@ I did software engineering on the "Escola Segura" platform, a tool for members o
   ME
 -->
 ## ME
+🎧 Spotify Playing<br><br>
+[<img src="https://readme-spotify-gabriellearruda.vercel.app/api/run-spotify-status" alt="Your alt what" width="500" />](https://open.spotify.com/user/21l5a7dkjndlbr3meel5kl2hy)
+<br><br>
+
 I love:
 <table style="border-color: transparent;">
  <tbody style="border-color: transparent;">
