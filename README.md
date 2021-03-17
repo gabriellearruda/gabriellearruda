@@ -165,8 +165,9 @@ SEE MY RESUME ON MY PINNED FILES OR READ [HERE](https://gabriellearruda.github.i
 
 
 <details>
- <summary>See My Git/Work Statistics</summary>
+ <summary>See My Git/Work Statistics Here</summary>
  <table>
+  <br>
   <tbody>
    <tr>
     <td align="center"><b>DATA SKILL BY EXPERIENCE</b></td>
