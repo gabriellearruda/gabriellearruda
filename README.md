@@ -23,9 +23,6 @@ Welcome to my github profile! I am a developer with an eclectic profile, despite
   <a href="mailto:gabriellearrudac@gmail.com?subject=Hello"><img align="left" href="" alt="Gmail" height="40px" src="https://img.shields.io/badge/Gmail-e3d7fe?style=for-the-badge&logo=gmail&logoColor=black" /></a>
  </div>
  <div class="col">
-  <a href="https://api.whatsapp.com/send?phone=5511940211447&text=Hello!"><img align="left" href="" alt="WhatsApp" height="40px" src="https://img.shields.io/badge/WhatsApp-e3d7fe?style=for-the-badge&logo=whatsapp&logoColor=black" /></a>
- </div>
- <div class="col">
   <a href="https://www.instagram.com/_gabiarruda/"><img align="left" href="" alt="Instagram" height="40px" src="https://img.shields.io/badge/Instagram-e3d7fe?style=for-the-badge&logo=instagram&logoColor=black" /></a>
  </div>
 </div>
