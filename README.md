@@ -6,9 +6,9 @@
 
 <img align="right" alt="GIF" height="250px" src="giphy.gif" />
 
-Bem Vindo ao meu perfil do github! Sou uma desenvolvedora com um perfil eclético, apesar de trabalhar com tecnologia sou apaixonada por estudos sociais e arte. Aqui utilizo para trabalhar e pessoalmente compilo arquivos e projetos especiais, espero que meu README te guie a entender meu perfil, habilidades e trabalhos. Para dúvidas, sugestões ou até mesmo um papo, minhas informações seguem abaixo.
+Bem Vindo ao meu perfil do github! Sou uma desenvolvedora com um perfil eclético. Apesar de trabalhar com tecnologia sou apaixonada por estudos sociais e arte. Aqui utilizo para trabalhar e pessoalmente compilo arquivos e projetos especiais, espero que meu README te guie a entender meu perfil, habilidades e trabalhos. Para dúvidas, sugestões ou até mesmo um papo, minhas informações seguem abaixo.
 
-Welcome to my github profile! I am a developer with an eclectic profile, despite working with technology I am passionate about social studies and art. Here I use to work and personally compile files and special projects, I hope that my README guides you to understand my profile, skills and jobs. For questions, suggestions or even a chat, my information follows below.
+Welcome to my github profile! I am a developer with an eclectic profile. Despite working with technology I am passionate about social studies and art. Here I use to work and personally compile files and special projects, I hope that my README guides you to understand my profile, skills and jobs. For questions, suggestions or even a chat, my information follows below.
 
 <!--
   CONTACT
