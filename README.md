@@ -159,33 +159,14 @@ SEE MY RESUME ON MY PINNED FILES OR READ [HERE](https://gabriellearruda.github.i
  </tbody>
 </table>
 
-
-
-<details>
- <summary>See My Git/Work Statistics Here</summary>
- <table>
-  <br>
-  <tbody>
-   <tr>
-    <td align="center"><b>DATA SKILL BY EXPERIENCE</b></td>
-    <td align="center"><b>GITHUB STATS</b></td>
-   </tr>
-   <tr>
-     <td align="center"><img src = "https://chart.googleapis.com/chart?cht=r&chxt=y,x&chls=4&chco=FFFFFF&chs=300x300&chts=FFFFFF,20&chxr=0,0.0,100.0&chd=t:60,10,70,70,90,75,80,25,95,40,60&chxp=0,25,50,75,100&chxs=0,FFFFFF,12|1,FFFFFF,12&chxl=1:|Software+Eng|ML|Data+Eng|Business|Database|Data+Wrang|Data+Vis|Statistics|Programming|Big+Data&chm=s,FFFFFF,0,-1,12,0|s,FFFFFF,0,-1,1,0&chf=bg,s,03001c"></td>
-     <td align="center"><img src = "https://github-readme-stats.vercel.app/api?username=gabriellearruda&show_icons=true&line_height=27&v=5&hide_rank=true&icon_color=FFFFFF&bg_color=03001c&title_color=FFFFFF&text_color=FFFFFF"></td>
-   </tr>
-  </tbody>
- </table>
-</details>
-
 <!--
   PROJECTS
 -->
 ## TEAM PROJECTS
 
-<b>[Corona Datasource](http://datasource.coronacidades.org/help)</b>
+<b>[Impulso Previne](https://www.impulsoprevine.org/)</b>
 <br>
-API of Coronacidades, which gathers data related to covid in Brazil, treating, cleaning and organizing information [DATA WRANGLING] to be used in tools like FarolCovid. In the team I implemented the parameterization of the API methods and maintenance, also implementing endpoint atualization codes, you can acess [here](https://github.com/ImpulsoGov/coronacidades-datasource) the code.
+I worked as a Software Engineer on Impulso Previne, a digital health platform designed to support Brazilian primary healthcare teams through data-driven insights and performance monitoring tools. The platform helps municipalities improve preventive healthcare indicators and optimize public health decision-making.
 <br>
 At [@ImpulsoGov](https://github.com/ImpulsoGov).
 <br>
